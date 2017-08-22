@@ -3,7 +3,7 @@
 
 
 
-Ejupi es un proyecto que pretender brindar información acerca del Servicio de Transporte Público de Encarnación. 
+Ejupi es un proyecto que pretende brindar información acerca del Servicio de Transporte Público de Encarnación. 
 La API está hecha en Django, el proyecto cuenta además con una aplicación que consume la información disponible de manera que sea más fácil para el público acceder a ella.
 
 
