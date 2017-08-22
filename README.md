@@ -7,7 +7,7 @@ Ejupi Rest es un proyecto que pretender brindar información acerca del Servicio
 La API está hecha en Django, el proyecto cuenta además con una aplicación que consume la información disponible de manera que sea más fácil para el público acceder a ella.
 
 
-![](../header.png)
+![](header.png)
 
 ## Requerimientos
 
@@ -35,6 +35,7 @@ cd ejupirest
 virtualenv env
 source env/bin/activate 
 pip install -r requerimientos.txt
+```
 
 ## Puntos de Acceso
 A pesar de que el servicio se encuentra en línea, la cantidad de datos disponible es incompleta. 
